@@ -17,7 +17,7 @@ namespace inheiratance
             this.Age = age;
         }
 
-        public void dosomething()
+        public virtual void dosomething()
         {
             Console.WriteLine("Animal - doSomething");
         }
@@ -39,6 +39,11 @@ namespace inheiratance
         public void getAnimalInfo()
         {
             Console.WriteLine(this.Name + " " + this.Age + " " + Bread + Sound);
+        }
+
+        public override void dosomething()
+        {
+            base.dosomething();
         }
 
         public override void makesound()
