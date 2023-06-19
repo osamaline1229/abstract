@@ -43,7 +43,7 @@ namespace inheiratance
 
         public override void dosomething()
         {
-            base.dosomething();
+            Console.WriteLine("child do something");
         }
 
         public override void makesound()
