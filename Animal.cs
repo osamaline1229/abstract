@@ -15,6 +15,7 @@ namespace inheiratance
         {
            this.Name = name;
             this.Age = age;
+            //wperjrweijwe
             
         }
 
