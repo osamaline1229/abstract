@@ -56,4 +56,36 @@ namespace inheiratance
 
     }
 
+    internal class Cat : Animals
+    {
+        string Bread;
+        string Sound;
+
+        public Cat(string name, int age, string Bread, string Sound) : base(name, age)
+
+        {
+            this.Bread = Bread;
+            this.Sound = Sound;
+        }
+        public void getAnimalInfo()
+        {
+            Console.WriteLine(this.Name + " " + this.Age + " " + Bread + Sound);
+        }
+
+        public override void makeNoise()
+        {
+            Console.WriteLine("Meoooow!");
+        }
+
+        public override void Eat()
+        {
+            Console.WriteLine("I Eat cat Food");
+        }
+
+
+
+
+    }
+
+
 }

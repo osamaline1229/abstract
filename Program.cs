@@ -9,8 +9,11 @@ namespace Inheritance
             Dog d = new Dog("Luna", 4, "Havenese", "Brrr!!!");
             d.makeNoise();
             d.Eat();
+            Console.WriteLine("----------------");
 
-            Console.WriteLine("Hello");
+            Cat T = new Cat("Luna", 4, "Havenese", "Brrr!!!");
+            T.makeNoise();
+            T.Eat();
         }
     }
 
