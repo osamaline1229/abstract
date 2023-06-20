@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\calling\bin\Debug\net6.0\calling.exe
+C:\Users\TRA\Desktop\code-TRA\calling\bin\Debug\net6.0\calling.deps.json
+C:\Users\TRA\Desktop\code-TRA\calling\bin\Debug\net6.0\calling.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\calling\bin\Debug\net6.0\calling.dll
+C:\Users\TRA\Desktop\code-TRA\calling\bin\Debug\net6.0\calling.pdb
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\calling.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\calling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\calling.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\calling.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\calling.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\calling.dll
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\refint\calling.dll
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\calling.pdb
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\calling.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\calling\obj\Debug\net6.0\ref\calling.dll
